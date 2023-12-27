@@ -1,0 +1,49 @@
+{
+  "devanshee.kansara@outlook.com": {
+    "dev": {
+      "27.02.23": {
+        "1": {
+          "dinner": 167.5
+        },
+        "2": {
+          "coffee": -150.0
+        },
+        "3": {
+          "Settle Up": -17.5
+        }
+      }
+    },
+    "rahil": {
+      "27.02.23": {
+        "1": {
+          "coffee": -150.0
+        }
+      }
+    }
+  },
+  "devhirenshah2211@gmail.com": {
+    "devanshee": {
+      "27.02.23": {
+        "1": {
+          "dinner": -167.5
+        },
+        "2": {
+          "coffee": 150.0
+        },
+        "3": {
+          "Settle Up": 17.5
+        }
+      }
+    }
+  },
+  "rahil.p@ahduni.edu.in": {
+    "devanshee": {
+      "27.02.23": {
+        "1": {
+          "coffee": 150.0
+        }
+      }
+    }
+  },
+  "daksh.s2@ahduni.edu.in": {}
+}
